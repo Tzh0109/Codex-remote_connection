@@ -1,0 +1,6 @@
+*.lnk
+*.log
+.env*
+*.local.*
+Thumbs.db
+Desktop.ini
